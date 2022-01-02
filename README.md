@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/home/naman/HackIIITV2021/public/images/beta_logo.png" align="center"></img>
+<img src="public/images/beta_logo.png" align="center"></img>
 </p>
 
 # Index
@@ -48,25 +48,25 @@ Navigate to Frontend by cd HackIIITV2021 and type `npm install` to install all p
 
 ## Glimpse
 <kbd>
-<img src="/home/naman/HackIIITV2021/public/images/first.png" align="center"></img>
+<img src="public/images/first.png" align="center"></img>
 </kbd>
 <kbd>
-<img src="/home/naman/HackIIITV2021/public/images/second.png" align="center"></img>
+<img src="public/images/second.png" align="center"></img>
 </kbd>
 <kbd>
-<img src="/home/naman/HackIIITV2021/public/images/third.png" align="center"></img>
+<img src="public/images/third.png" align="center"></img>
 </kbd>
 <kbd>
-<img src="/home/naman/HackIIITV2021/public/images/fourth.png" align="center"></img>
+<img src="public/images/fourth.png" align="center"></img>
 </kbd>
 <kbd>
-<img src="/home/naman/HackIIITV2021/public/images/fifth.png" align="center"></img>
+<img src="public/images/fifth.png" align="center"></img>
 </kbd>
 <kbd>
-<img src="/home/naman/HackIIITV2021/public/images/sixth.png" align="center"></img>
+<img src="public/images/sixth.png" align="center"></img>
 </kbd>
 <kbd>
-<img src="/home/naman/HackIIITV2021/public/images/seventh.png" align="center"></img>
+<img src="public/images/seventh.png" align="center"></img>
 </kbd>
 
 
