@@ -17,6 +17,9 @@ It is often the case that developers test their products amongst the team or amo
 ## Solution Proposed
 So, our hack basically solves this issue by bringing all the different categories of audience on our portal and allowing the companies to test their products on the audience and gain valuable feedback from them in return of rewards.
 
+## Demonstration
+ [<img src="public/images/first.png" width="100%">](https://youtu.be/myroZdswZKI)
+
 ## How it Works
 - On signing in to the application, it will ask to select a role - either User or Company. Upon role selection, it will ask for some basic details from Users as well as Company.
 - On successful signup, users can see the product posting, test them and give their feedback and can gain rewards if the company thinks it's a valuable feedback. Users can also see the total budget allocated by the company for rewards on feedback and can also track how much of the budget has been already rewarded to other users.
@@ -43,8 +46,6 @@ Navigate to Frontend by cd HackIIITV2021 and type `npm install` to install all p
 - Type `npm run start` to start the server.
 
 
-## Demonstration
-<a href="https://www.youtube.com/watch?v=adbtcexU0IY">Link to Youtube Video</a>
 
 ## Glimpse
 <kbd>
