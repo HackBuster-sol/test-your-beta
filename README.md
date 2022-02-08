@@ -18,6 +18,7 @@ It is often the case that developers test their products amongst the team or amo
 So, our hack basically solves this issue by bringing all the different categories of audience on our portal and allowing the companies to test their products on the audience and gain valuable feedback from them in return of rewards.
 
 ## Demonstration
+**Please click on the below pic to see the demonstration Video.**
  [<img src="public/images/first.png" width="100%">](https://youtu.be/myroZdswZKI)
 
 ## How it Works
